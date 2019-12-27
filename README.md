@@ -6,3 +6,5 @@ braço robótico MRB-5GL (quando ele ainda não tinha sequer um nome). Estas ver
 versão apresentada no trabalho de conclusão de curso da Especialização em Automação Industrial (turma 2013-2015) 
 e, também, nos vídeos do projeto do braço robô até a última versão apresentada em vídeo. Na última versão, tanto 
 a cinemática direta quanto a cinemática inversa estão erradas, portanto é recomendado desconsiderá-las.
+Os arquivos .seq e o arquivo seqcomandos.txt são sequências de comandos para o braço robô, que também são
+compatíveis com o software de controle feito em Qt Creator.
