@@ -16,7 +16,8 @@ Canal Amaro Robótica na Odysee:
 https://odysee.com/@AmaroRobotica:a
 
 Playlist do projeto do braço robô MRB-5GL:                                
-[![Projeto do braço robô](https://thumbs.odycdn.com/0c92bf28bd7fb48bada641330e733b1a.webp)](https://odysee.com/@AmaroRobotica:a/Projeto-do-bra%C3%A7o-rob%C3%B4:2)
+[<img src="https://thumbs.odycdn.com/0c92bf28bd7fb48bada641330e733b1a.webp" width="362" height="203">](https://odysee.com/@AmaroRobotica:a/Projeto-do-bra%C3%A7o-rob%C3%B4:2)
 
 Última versão do software de controle do MRB-5GL:                          
-[![Braço robô - Última versão do software de controle em Matlab](https://thumbs.odycdn.com/1af9070767db5f417dca1e0cd929eacb.webp)](https://odysee.com/@AmaroRobotica:a/Bra%C3%A7o-rob%C3%B4---%C3%9Altima-vers%C3%A3o-do-software-de-controle-em-Matlab:8)
+[<img src="https://thumbs.odycdn.com/1af9070767db5f417dca1e0cd929eacb.webp" width="362" height="203">](https://odysee.com/@AmaroRobotica:a/Bra%C3%A7o-rob%C3%B4---%C3%9Altima-vers%C3%A3o-do-software-de-controle-em-Matlab:8)
+
